@@ -3,8 +3,8 @@
 🎓 Estudante de Ciências da Computação  
 💻 Aprendendo Linguagem C  
 🎯 Foco em Desenvolvimento Front-End(HTML, CSS, JavaScript)  
-💡 Apaixonado por programação, resolução de problemas e lógica  
-🌱 Buscando sempre aprender novas tecnologias e boas práticas  
+💡 Apaixonada por programação, resolução de problemas e lógica  
+🌱 Buscando sempre aprender novas tecnologias
 
 ##
 ***Tech Stack:***
