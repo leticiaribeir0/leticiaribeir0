@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciências da Computação  
 💻 Aprendendo Linguagem C  
-🎯 Foco em Desenvolvimento Front-End(HTML, CSS, JavaScript)  
+🎯 Foco em Desenvolvimento Front-End 
 💡 Apaixonada por programação, resolução de problemas e lógica  
 🌱 Buscando sempre aprender novas tecnologias
 
