@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Letícia Ribeiro
 
 🎓 Estudante de Ciências da Computação  
-💻 Aprendendo Linguagem C  
+💻 Experiência acadêmica com Linguagem C  
 🎯 Foco em Desenvolvimento Front-End  
 💡 Apaixonada por programação, resolução de problemas e lógica  
 🌱 Buscando sempre aprender novas tecnologias
